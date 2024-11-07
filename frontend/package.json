@@ -19,7 +19,6 @@
     "recharts": "^2.13.3"
   },
   "devDependencies": {
-    "eslint": "^8",
     "eslint-config-next": "15.0.2",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^5.2.1"
